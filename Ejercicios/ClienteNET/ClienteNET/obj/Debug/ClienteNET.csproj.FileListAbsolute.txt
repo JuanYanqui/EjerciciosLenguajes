@@ -1,0 +1,6 @@
+c:\users\asus\documents\visual studio 2015\Projects\ClienteNET\ClienteNET\bin\Debug\ClienteNET.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\ClienteNET\ClienteNET\bin\Debug\ClienteNET.exe
+c:\users\asus\documents\visual studio 2015\Projects\ClienteNET\ClienteNET\bin\Debug\ClienteNET.pdb
+c:\users\asus\documents\visual studio 2015\Projects\ClienteNET\ClienteNET\obj\Debug\ClienteNET.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\ClienteNET\ClienteNET\obj\Debug\ClienteNET.exe
+c:\users\asus\documents\visual studio 2015\Projects\ClienteNET\ClienteNET\obj\Debug\ClienteNET.pdb
